@@ -1,0 +1,3 @@
+==Las ramas en Git== son líneas de desarrollo paralelas que permiten trabajar en un proyecto de forma aislada. Permiten experimentar, desarrollar nuevas funciones o solucionar problemas sin afectar el código principal (rama `main` o `master`). Al terminar el trabajo en una rama, se puede fusionar con la rama principal.
+
+==Un "fork" en Git==es una copia personal de un repositorio** que te permite hacer cambios de forma independiente sin afectar el proyecto original. Funciona como un punto de partida para contribuir a proyectos de código abierto, ya que puedes modificar la copia y luego proponer tus cambios al proyecto original a través de un _pull request_.
